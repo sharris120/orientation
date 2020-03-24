@@ -10,5 +10,5 @@ It's just a nudge or gentle reminder that there's more of the course waiting. An
 **Make sure you're getting our emails:**
 
 ```
-Open your email inbox (for whatever address you used to sign up) and see if you have a welcome email from team@sjmd.space. You shuld. If you don't, it's likely in your spam. Mark it as not spam, star it, add us to your address book, mark it as "important", or do whatever your email provider allows to tell them you want these emails. They're our only way to communicate with you.
+Open your email inbox (for whatever address you used to sign up) and see if you have a welcome email from team@sjmd.space. You should. If you don't, it's likely in your spam. Mark it as not spam, star it, add us to your address book, mark it as "important", or do whatever your email provider allows to tell them you want these emails. They're our only way to communicate with you.
 ```
